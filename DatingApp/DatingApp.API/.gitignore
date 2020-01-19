@@ -1,0 +1,7 @@
+.vscode
+bin
+obj
+*.db
+vsc
+history
+.DS_Store
